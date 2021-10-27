@@ -1,4 +1,4 @@
-# WebPractice_01
+# WebPractice_01_basichtml
 Udemy course practice project.
 
 跟隨教學製作熊貓相關的資訊網頁，透過純粹的html
